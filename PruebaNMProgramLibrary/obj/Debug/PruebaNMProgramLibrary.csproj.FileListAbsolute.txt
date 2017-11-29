@@ -1,0 +1,6 @@
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgramLibrary\bin\Debug\PruebaNMProgramLibrary.dll
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgramLibrary\bin\Debug\PruebaNMProgramLibrary.pdb
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgramLibrary\obj\Debug\PruebaNMProgramLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgramLibrary\obj\Debug\PruebaNMProgramLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgramLibrary\obj\Debug\PruebaNMProgramLibrary.dll
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgramLibrary\obj\Debug\PruebaNMProgramLibrary.pdb

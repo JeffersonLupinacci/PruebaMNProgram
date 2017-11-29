@@ -1,0 +1,12 @@
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\PruebaNMProgram.csprojResolveAssemblyReference.cache
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\Ejercicio.frmPrincipal.resources
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\PruebaNMProgram.Properties.Resources.resources
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\PruebaNMProgram.csproj.GenerateResource.Cache
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\PruebaNMProgram.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\bin\Debug\PruebaNMProgram.exe.config
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\bin\Debug\PruebaNMProgram.exe
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\bin\Debug\PruebaNMProgram.pdb
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\bin\Debug\PruebaNMProgramLibrary.dll
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\bin\Debug\PruebaNMProgramLibrary.pdb
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\PruebaNMProgram.exe
+C:\Users\jeffe\source\repos\PruebaNMProgram\PruebaNMProgram\obj\Debug\PruebaNMProgram.pdb

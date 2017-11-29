@@ -1,0 +1,214 @@
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro id: 3 eliminado
+Libro id: 2 eliminado
+Libro id: 1 eliminado
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por: l total: 3
+Libro buscado por: li total: 3
+Libro buscado por: lib total: 3
+Libro buscado por: libr total: 3
+Libro buscado por: lib total: 3
+Libro buscado por: li total: 3
+Libro buscado por: l total: 3
+Libro buscado por:  total: 3
+Libro buscado por: l total: 3
+Libro buscado por: li total: 3
+Libro buscado por: lib total: 3
+Libro buscado por: libr total: 3
+Libro buscado por: libro total: 3
+Libro buscado por: libr total: 3
+Libro buscado por: 1 total: 1
+Libro buscado por:  total: 3
+Libro buscado por: 2 total: 1
+Libro buscado por:  total: 3
+Libro buscado por: 3 total: 1
+Libro buscado por:  total: 3
+Libro id: 3 eliminado
+Libro id: 2 eliminado
+Libro id: 1 eliminado
+Libro buscado por:  total: 0
+Revista buscado por:  total: 0
+Revista id: 1 creado
+Revista id: 2 creado
+Revista id: 3 creado
+Revista buscado por:  total: 3
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por: f total: 2
+Libro buscado por: fo total: 2
+Libro buscado por: fot total: 0
+Libro buscado por: fo total: 2
+Libro buscado por: fog total: 1
+Libro buscado por: fogo total: 1
+Libro buscado por:  total: 0
+Revista buscado por:  total: 0
+Revista id: 1 creado
+Revista id: 2 creado
+Revista id: 3 creado
+Revista id: 4 creado
+Revista buscado por:  total: 4
+Revista id: 5 creado
+Revista id: 6 creado
+Revista id: 7 creado
+Revista id: 8 creado
+Revista buscado por:  total: 8
+Revista id: 8 eliminado
+Revista id: 7 eliminado
+Revista id: 6 eliminado
+Revista id: 5 eliminado
+Revista id: 4 eliminado
+Revista id: 3 eliminado
+Revista id: 2 eliminado
+Revista id: 1 eliminado
+Revista buscado por:  total: 0
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro id: 3 eliminado
+Libro buscado por:  total: 2
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro id: 3 eliminado
+Libro buscado por:  total: 2
+Libro buscado por:  total: 2
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro id: 3 eliminado
+Libro id: 2 eliminado
+Libro buscado por:  total: 1
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro id: 3 eliminado
+Libro id: 2 eliminado
+Libro buscado por:  total: 1
+Libro id: 4 creado
+Libro id: 5 creado
+Libro id: 6 creado
+Libro buscado por:  total: 4
+Libro id: 7 creado
+Libro id: 8 creado
+Libro id: 9 creado
+Libro buscado por:  total: 7
+Libro buscado por: t total: 2
+Libro buscado por: th total: 2
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por:  total: 0
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por: c total: 1
+Libro buscado por:  total: 3
+Libro buscado por: c total: 1
+Libro buscado por:  total: 3
+Libro buscado por: c total: 1
+Libro buscado por:  total: 3
+Revista buscado por:  total: 0
+Revista id: 1 creado
+Revista id: 2 creado
+Revista id: 3 creado
+Revista id: 4 creado
+Revista buscado por:  total: 4
+Revista buscado por: b total: 1
+Revista buscado por:  total: 4
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro buscado por:  total: 3
+Libro id: 2 eliminado
+Libro buscado por:  total: 2
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Revista buscado por:  total: 0
+Revista id: 1 creado
+Revista id: 2 creado
+Revista id: 3 creado
+Revista id: 4 creado
+Revista buscado por:  total: 4
+Revista buscado por:  total: 4
+Libro buscado por:  total: 3
+Revista buscado por:  total: 4
+Libro buscado por:  total: 3
+Revista buscado por:  total: 4
+Revista buscado por:  total: 4
+Revista buscado por:  total: 4
+Revista buscado por:  total: 4
+Revista buscado por:  total: 4
+Libro buscado por:  total: 0
+Libro id: 1 creado
+Libro id: 2 creado
+Libro id: 3 creado
+Libro buscado por:  total: 3
+Libro id: 3 eliminado
+Libro id: 2 eliminado
+Libro id: 1 eliminado
+Libro buscado por:  total: 0
+Libro id: 4 creado
+Libro id: 5 creado
+Libro id: 6 creado
+Libro buscado por:  total: 3
+Revista buscado por:  total: 0
+Revista id: 1 creado
+Revista id: 2 creado
+Revista id: 3 creado
+Revista id: 4 creado
+Revista buscado por:  total: 4
+Libro buscado por:  total: 3
+Libro id: 6 eliminado
+Libro id: 5 eliminado
+Libro id: 4 eliminado
+Libro buscado por:  total: 0
+Revista buscado por:  total: 4
+Libro buscado por:  total: 0
+Pelicula buscado por:  total: 0
+Revista buscado por:  total: 4
+Libro buscado por:  total: 0
